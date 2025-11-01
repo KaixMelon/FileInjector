@@ -1,0 +1,4 @@
+.github_config.php
+.env
+*.log
+gitupload.php
